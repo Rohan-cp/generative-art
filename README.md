@@ -6,12 +6,12 @@ I also want say that all of my skectches here were made on OpenProcessing and ar
 
 This is one of the first sketches I ever made and it actually uses this idea and the size of the circle is also dependent on its x-coordinate that creates this interesting light funnel.
 
-<img src="https://imgur.com/Do1H240" > </img>
+<img src="https://imgur.com/Do1H240.png" > </img>
 
 Another aspect of this I enjoy is leveraging math to create unique and pretty designs.
 
-<img src="https://imgur.com/oYpcXmE" > </img>
+<img src="https://imgur.com/oYpcXmE.png" > </img>
 
-<img src="https://imgur.com/PDMTG3t" > </img>
+<img src="https://imgur.com/PDMTG3t.png" > </img>
 
 Feel free to reach out to me at rohancp9@gmail.com if you wanna play around with code for any of these.
