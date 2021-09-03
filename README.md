@@ -7,7 +7,7 @@ This is one of the first sketches I ever made and it actually uses this idea and
 
 <img src="https://imgur.com/Do1H240.png" > </img>
 
-Another aspect of this I enjoy is leveraging math to create unique and pretty designs.
+Another enjoyable aspect of this is leveraging math to create unique and pretty designs.
 
 <img src="https://imgur.com/oYpcXmE.png" > </img>
 
