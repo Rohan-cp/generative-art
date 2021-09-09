@@ -18,12 +18,12 @@ There were two main aspects of visual generative art I wanted to explore:
 ## Using Math
 For the first aspect, I ended up using the sine function to make the following piece. At first glance, do you think you can tell where or how the sine function is used here? 
 
-Well, I use it to basically determine the radius of the circles generated. So you can see that the radii of the circles basically increase and decrease from the center to the edges of the image. This increase and decrease is done with the use of sine.
+Well, I use it to determine the radius of the circles generated. So you can see that the radii of the circles basically increase and decrease from the center to the edges of the image. This increase and decrease is done with the use of sine.
 
 <img src="https://imgur.com/oYpcXmE.png"> </img>
 
 
-In fact, I used the following code to also set the color of the circles in RGB. Here the blue part of the circle's color would follow the sine wave path (to increase and decrease with circle size) and the green part was dependent on the the distance of circle from center of origin. This is why you can see a nice gradient in color of circles from the center of sketch outwards to the edges.
+In fact, I used the following code to also set the color of the circles in RGB. Here the blue part of the circle's color would follow the sine wave path (to increase and decrease with circle size) and the green part was dependent on the distance of circle from the center of origin. This is why you can see a nice gradient in the color of circles from the center of the sketch outwards to the edges.
 
 ```
 // (400, 300) is the center of the sketch and (x, y) is origin of the circle
@@ -42,11 +42,11 @@ The following is another piece that uses the bell curve for the distribution of 
 <img src="https://imgur.com/QdzGyls.png"> </img>
 
 ## Experimentation
-So the following ones are a lot simpler but very to fun to play with. I could tinker with the number of circles rendered and the color schemes and I'll share my favorite variation.
+So the following one is a lot simpler but very to fun to play with. I could tinker with the number of circles rendered and the color schemes and I'll share my favorite variation.
 
 <img src="https://imgur.com/PDMTG3t.png" > </img>
 
-This next one was by far the most fun exploration. I basically used Perlin Noise to translate each pixel in a grid of same colored pixels to randomly move a certain amount vertically or horizontally (pretty basic right). The noise comes in to determine this shift and it does so by considering the neighbour pixel's shift creating this pattern. One of the best aspects of this is to hit re-run and see a different version of your sketch come to life. I'll share three variations here (I actually spent all day once trying out different color schemes and ended up liking the very first one I tried the most—sigh I guess).
+This next one was by far the most fun exploration. I used Perlin Noise to translate each pixel in a grid of same-colored pixels to randomly move a certain amount vertically or horizontally (pretty basic right). The noise comes in to determine this shift and it does so by considering the neighbour pixel's shift creating this pattern. One of the best aspects of this is to hit re-run and see a different version of your sketch come to life. I'll share three variations here (I actually spent all day once trying out different color schemes and ended up liking the very first one I tried the most—sigh I guess).
 
 <img src="https://imgur.com/pTIOKNi.png" > </img>
 
@@ -58,4 +58,4 @@ Ok one more.
 
 <img src="https://imgur.com/xqHAMP4.png" > </img>
 
-I also want say that all of my skectches here were made on [OpenProcessing](https://openprocessing.org) and are inspired from youtube videos and online forums. If you're interested in generative art I highly recommend you check out [Algorithmic Art](https://www.youtube.com/channel/UCO6iBPzIvUdzxcf87BN24FQ). Feel free to reach out to me at rohancp9@gmail.com if you wanna play around with code for any of these.
+I also want to say that all of my sketches here were made on [OpenProcessing](https://openprocessing.org) and are inspired by youtube videos and online forums. If you're interested in generative art I highly recommend you check out [Algorithmic Art](https://www.youtube.com/channel/UCO6iBPzIvUdzxcf87BN24FQ). Feel free to reach out to me at rohancp9@gmail.com if you wanna play around with code for any of these.
