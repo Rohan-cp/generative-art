@@ -5,7 +5,7 @@ Usually, as a programmer, you have a bunch of specifications and you write code 
 To give you a taste of what I'm talking about, this is one of the first sketches I ever made and it actually uses the idea mentioned above. Here, not only the color of the circle but its size is also dependent on its x-coordinate to create this interesting light funnel.
 
 
-<img src="https://imgur.com/Do1H240.png" > </img>
+<img src="https://imgur.com/Do1H240.png" height > </img>
 
 There were two main aspects of visual generative art I wanted to explore: 
 <ul>
@@ -36,7 +36,7 @@ fill(r,g,b);
 ```
 The following is another piece that uses the bell curve for the distribution of circles rendered (won't dive much deeper into this).
 
-<img src="https://imgur.com/QdzGyls.png" > </img>
+<img src="https://imgur.com/QdzGyls.png" height="50%" width="50%" > </img>
 
 ## Experimentation
 So the following ones are a lot simpler but very to fun to play with. I could tinker with the number of circles rendered and the color schemes and I'll share two variations.
