@@ -4,8 +4,11 @@ Usually, as a programmer, you have a bunch of specifications and you write code 
 
 To give you a taste of what I'm talking about, this is one of the first sketches I ever made and it actually uses the idea mentioned above. Here, not only the color of the circle but its size is also dependent on its x-coordinate to create this interesting light funnel.
 
+<p align="center">
+   <img src="https://imgur.com/Do1H240.png" height="60%" width="60%" > </img>
+</p>
 
-<img src="https://imgur.com/Do1H240.png" height > </img>
+
 
 There were two main aspects of visual generative art I wanted to explore: 
 <ul>
@@ -18,7 +21,10 @@ For the first aspect, I ended up using the sine function to make the following p
 
 Well, I use it to basically determine the radius of the circles generated. So you can see that the radii of the circles basically increase and decrease from the center to the edges of the image. This increase and decrease is done with the use of sine.
 
-<img src="https://imgur.com/oYpcXmE.png" > </img>
+<p align="center">
+   <img src="https://imgur.com/oYpcXmE.png" height="70%" width="70%"> </img>
+</p>
+
 
 In fact, I used the following code to also set the color of the circles in RGB. Here the blue part of the circle's color would follow the sine wave path (to increase and decrease with circle size) and the green part was dependent on the the distance of circle from center of origin. This is why you can see a nice gradient in color of circles from the center of sketch outwards to the edges.
 
