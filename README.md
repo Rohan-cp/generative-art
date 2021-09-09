@@ -4,9 +4,8 @@ Usually, as a programmer, you have a bunch of specifications and you write code 
 
 To give you a taste of what I'm talking about, this is one of the first sketches I ever made and it actually uses the idea mentioned above. Here, not only the color of the circle but its size is also dependent on its x-coordinate to create this interesting light funnel.
 
-<p align="center">
-   <img src="https://imgur.com/Do1H240.png" height="60%" width="60%" > </img>
-</p>
+
+<img src="https://imgur.com/Do1H240.png"> </img>
 
 
 
@@ -21,9 +20,7 @@ For the first aspect, I ended up using the sine function to make the following p
 
 Well, I use it to basically determine the radius of the circles generated. So you can see that the radii of the circles basically increase and decrease from the center to the edges of the image. This increase and decrease is done with the use of sine.
 
-<p align="center">
-   <img src="https://imgur.com/oYpcXmE.png" height="70%" width="70%"> </img>
-</p>
+<img src="https://imgur.com/oYpcXmE.png"> </img>
 
 
 In fact, I used the following code to also set the color of the circles in RGB. Here the blue part of the circle's color would follow the sine wave path (to increase and decrease with circle size) and the green part was dependent on the the distance of circle from center of origin. This is why you can see a nice gradient in color of circles from the center of sketch outwards to the edges.
@@ -42,14 +39,12 @@ fill(r,g,b);
 ```
 The following is another piece that uses the bell curve for the distribution of circles rendered (won't dive much deeper into this).
 
-<img src="https://imgur.com/QdzGyls.png" height="50%" width="50%" > </img>
+<img src="https://imgur.com/QdzGyls.png"> </img>
 
 ## Experimentation
-So the following ones are a lot simpler but very to fun to play with. I could tinker with the number of circles rendered and the color schemes and I'll share two variations.
+So the following ones are a lot simpler but very to fun to play with. I could tinker with the number of circles rendered and the color schemes and I'll share my favorite variation.
 
 <img src="https://imgur.com/PDMTG3t.png" > </img>
-
-<img src="https://imgur.com/NWdpuw8.png" > </img>
 
 This next one was by far the most fun exploration. I basically used Perlin Noise to translate each pixel in a grid of same colored pixels to randomly move a certain amount vertically or horizontally (pretty basic right). The noise comes in to determine this shift and it does so by considering the neighbour pixel's shift creating this pattern. One of the best aspects of this is to hit re-run and see a different version of your sketch come to life. I'll share three variations here (I actually spent all day once trying out different color schemes and ended up liking the very first one I tried the most—sigh I guess).
 
