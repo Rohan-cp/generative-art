@@ -35,25 +35,26 @@ var b = d;
 fill(r,g,b);
 ```
 The following is another piece that uses the bell curve for the distribution of circles rendered (won't dive much deeper into this).
-<img src="https://imgur.com/a/G1dZ5dR.png" > </img>
+
+<img src="https://imgur.com/QdzGyls.png" > </img>
 
 ## Experimentation
 So the following ones are a lot simpler but very to fun to play with. I could tinker with the number of circles rendered and the color schemes and I'll share two variations.
 
-<img src="https://imgur.com/a/uAH50Ll.png" > </img>
+<img src="https://imgur.com/PDMTG3t.png" > </img>
 
-<img src="https://imgur.com/a/PDMTG3t.png" > </img>
+<img src="https://imgur.com/NWdpuw8.png" > </img>
 
 This next one was by far the most fun exploration. I basically used Perlin Noise to translate each pixel in a grid of same colored pixels to randomly move a certain amount vertically or horizontally (pretty basic right). The noise comes in to determine this shift and it does so by considering the neighbour pixel's shift creating this pattern. One of the best aspects of this is to hit re-run and see a different version of your sketch come to life. I'll share three variations here (I actually spent all day once trying out different color schemes and ended up liking the very first one I tried the most—sigh I guess).
 
-<img src="https://imgur.com/a/0OKwWYF.png" > </img>
+<img src="https://imgur.com/pTIOKNi.png" > </img>
 
-<img src="https://imgur.com/a/QIEiQ8I.png" > </img>
+<img src="https://imgur.com/zfLej6F.png" > </img>
 
-<img src="https://imgur.com/a/0OKwWYF.png" > </img>
+<img src="https://imgur.com/i494fda.png" > </img>
 
 Ok one more.
 
-<img src="https://imgur.com/a/JFtqVxF.png" > </img>
+<img src="https://imgur.com/xqHAMP4.png" > </img>
 
 I also want say that all of my skectches here were made on [OpenProcessing](https://openprocessing.org) and are inspired from youtube videos and online forums. If you're interested in generative art I highly recommend you check out [Algorithmic Art](https://www.youtube.com/channel/UCO6iBPzIvUdzxcf87BN24FQ). Feel free to reach out to me at rohancp9@gmail.com if you wanna play around with code for any of these.
