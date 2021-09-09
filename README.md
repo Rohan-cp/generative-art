@@ -25,7 +25,7 @@ Well, I use it to determine the radius of the circles generated. So you can see 
 
 In fact, I used the following code to also set the color of the circles in RGB. Here the blue part of the circle's color would follow the sine wave path (to increase and decrease with circle size) and the green part was dependent on the distance of circle from the center of origin. This is why you can see a nice gradient in the color of circles from the center of the sketch outwards to the edges.
 
-```bash
+```python
 // (400, 300) is the center of the sketch and (x, y) is origin of the circle
 var d = dist(x, y, 400, 300);
 
