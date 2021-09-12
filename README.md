@@ -62,4 +62,11 @@ Ok one more.
 
 <img src="https://imgur.com/xqHAMP4.png" > </img>
 
+## Planned future explorations
+<ul>
+<li> Experiment with input from real world (like visualising sound, using weather or atmospheric data) </li>
+<li> Work on making pieces dynamic (like following your cursor or just having rendered objects move or change in shape, size and color). 
+<li> Specific instances of the above point basically: simulate water flow and fire (separately). Water because I've always been interested in turbulent flow and I have tried to capture it many times in my drawings and I think I'll fare better with code for this. Fire because it just seems like an interesting challenge.
+</ul>
+
 I also want to say that all of my sketches here were made on [OpenProcessing](https://openprocessing.org) and are inspired by youtube videos and online forums. If you're interested in generative art I highly recommend you check out [Algorithmic Art](https://www.youtube.com/channel/UCO6iBPzIvUdzxcf87BN24FQ). Feel free to reach out to me at rohancp9@gmail.com if you wanna play around with code for any of these.
