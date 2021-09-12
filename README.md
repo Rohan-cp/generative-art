@@ -65,7 +65,7 @@ Ok one more.
 ## Planned future explorations
 <ul>
 <li> Experiment with input from real world (like visualising sound, using weather or atmospheric data) </li>
-<li> Work on making pieces dynamic (like following your cursor or just having rendered objects move or change in shape, size and color). 
+<li> Work on making pieces dynamic (like following your cursor or just having rendered objects move or change in shape, size and/or color). 
 <li> Specific instances of the above point basically: simulate water flow and fire (separately). Water because I've always been interested in turbulent flow and I have tried to capture it many times in my drawings and I think I'll fare better with code for this. Fire because it just seems like an interesting challenge.
 </ul>
 
