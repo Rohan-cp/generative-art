@@ -12,7 +12,7 @@ To give you a taste of what I'm talking about, this is one of the first sketches
 There were two main aspects of visual generative art I wanted to explore: 
 <ul>
 <li> Using Math: leveraging math functions and models (like trig functions, fractals, bell curve) </li>
-<li> Experimentation: being able to experiment with different aspects of a piece (colors, coordinates, radius, number of objects rendered) manually changing or randomising them (including pseudo-randomiser functions like Perlin Noise) and hitting run. </li>
+<li> Experimentation: being able to experiment with different aspects of a piece (colors, coordinates, radius, number of objects rendered) manually changing or randomising them (including pseudo-randomiser functions like Perlin Noise) and hit run to create a different variation every time. </li>
 </ul>
 
 ## Using Math
