@@ -18,7 +18,7 @@ There were two main aspects of visual generative art I wanted to explore:
 ## Using Math
 For the first aspect, I ended up using the sine function to make the following piece. At first glance, do you think you can tell where or how the sine function is used here? 
 
-Well, I use it to determine the radius of the circles generated. So you can see that the radii of the circles basically increase and decrease from the center to the edges of the image. This increase and decrease is done with the use of sine.
+Well, I use it to determine the radius of the circles generated. So you can see that the radii of the circles basically increase and decrease from the center to the edges of the image. The rate of change of the circle radii is waves like sine.
 
 <img src="https://imgur.com/oYpcXmE.png"> </img>
 
